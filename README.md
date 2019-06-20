@@ -1,3 +1,5 @@
+# CDK example of an S3 bucket with a PropertyOverride
+
 # Useful commands
 
  * `npm run build`   compile typescript to js
